@@ -17,5 +17,5 @@ Hi! My name's Gabriel Roger and I'm a software engineering student at Universida
 
 ### 💻 My Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=GabrielRoger07&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" height="190"/>&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRoger07&layout=compact&langs_count=16&theme=chartreuse-dark" height="190"/>
+<img src="https://github-readme-stats.vercel.app/api?username=GabrielRoger07&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" height="182"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRoger07&layout=compact&langs_count=16&theme=chartreuse-dark" height="182"/>
