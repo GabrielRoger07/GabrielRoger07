@@ -2,7 +2,7 @@
 
 ### 🧑‍💻 About Me
 
-My name's Gabriel Roger and I'm a software engineering student at University of Brasília.
+My name's Gabriel Roger and I'm a software engineering student at University of Brasília. I'm very interested in learning new technologies and improving my knowledge!
 
   ##
 
