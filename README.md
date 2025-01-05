@@ -26,5 +26,3 @@ My name's Gabriel Roger and I'm a software engineering student at University of 
 
 <img src="https://github-readme-stats.vercel.app/api?username=GabrielRoger07&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" height="182"/>&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRoger07&layout=compact&langs_count=16&theme=chartreuse-dark" height="182"/>
-
-![snake gif](https://github.com/GabrielRoger07/GabrielRoger07/blob/output/github-contribution-grid-snake.svg)
